@@ -150,7 +150,7 @@ main {
 .img-text {
     position: absolute;
     top: 70px;
-    right: 200px;
+    right: 180px;
     font-size: 20px;
     color: white;
     width: 120px;
@@ -218,7 +218,7 @@ footer ul a {
 
 @media screen and (min-width: 425px) {
     .img-text {
-        top: 90px;
+        top: 100px;
         left: 20px;
     }
 }
